@@ -16,7 +16,7 @@ Dteyn: https://discord.gg/Qt7GT69Pzx </br>
 
 # <b>Installation</b></br>
 
-1) Download the zip file from [https://github.com/Astienth/Bomb_Rush_Cyberfunk_VR/releases/download/1.0.0/BombRushCyberFunk_VR.zip](https://github.com/Astienth/Bomb_Rush_Cyberfunk_VR/releases/download/1.0.0/BombRushCyberFunk_VR.zip)</br>
+1) Download the zip file from [https://github.com/Astienth/Road_Redemption_VR_bHaptics/releases/download/1.0/RoadRedemptionVR.zip](https://github.com/Astienth/Road_Redemption_VR_bHaptics/releases/download/1.0/RoadRedemptionVR.zip)</br>
 2) Extract its content into the game root folder, the folder containing the "RoadRedemption.exe".</br>
 3) **YOU MUST install VigemBus drivers** to be able to use VR controllers: launch the install exe that you can find in "GameFolder"/BepInEx/redist/ViGEmBus_1.22.0_x64_x86_arm64.exe
 4) Launch the game like you usually launch it via steam or the exe file.
