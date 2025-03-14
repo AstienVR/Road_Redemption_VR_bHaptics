@@ -1,4 +1,4 @@
-# Road_Redemtpion_VR_bHaptics
+# Road_Redemption_VR_bHaptics
 
 <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/300380/header.jpg">
 
