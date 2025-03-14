@@ -69,4 +69,5 @@ This file is created after the first launch of the game with this mod, at **BepI
 Edit this file and turn "firstPersonView = false" to "firstPersonView = **true**" to activate first person view and VR controls.
 You can activate Vignette for motion sickness if you need it and change the intensity value with 100 being the maximum.
 
-
+## License
+The ViGEm Bus Driver is licensed under the BSD-3-Clause, see its own license in BepInEx/redist/LICENSE.TXT for more details
