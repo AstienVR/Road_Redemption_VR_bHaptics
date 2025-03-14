@@ -35,8 +35,6 @@ VR motion gestures can trigger left and right attacks with weapons like baseball
 
 ## Config
 
-You can modify the config file in BepInEx/config/RoadRedemption_VR.cfg
-
 ```
 ## Settings file was created by plugin RoadRedemption_VR v1.0.0
 ## Plugin GUID: RoadRedemption_VR
@@ -67,7 +65,8 @@ vignette = false
 maxVignetteValue = 100
 
 ```
-This file is created after the first launch of the game with this mod, at **BepInEx/config/BombRushCyberFunk_VR.cfg**</br>
-Edit this file and turn "firstPerson = false" to "firstPerson = **true**" to activate first person view and VR controls.
+This file is created after the first launch of the game with this mod, at **BepInEx/config/RoadRedemption_VR.cfg**</br>
+Edit this file and turn "firstPersonView = false" to "firstPersonView = **true**" to activate first person view and VR controls.
+You can activate Vignette for motion sickness if you need it and change the intensity value with 100 being the maximum.
 
 
