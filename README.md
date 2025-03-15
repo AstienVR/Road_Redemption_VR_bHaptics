@@ -66,7 +66,7 @@ maxVignetteValue = 100
 
 ```
 This file is created after the first launch of the game with this mod, at **BepInEx/config/RoadRedemption_VR.cfg**</br>
-Edit this file and turn "firstPersonView = false" to "firstPersonView = **true**" to activate first person view and VR controls.
+Edit this file and turn "firstPersonView = false" to "firstPersonView = **true**" to activate first person view.
 You can activate Vignette for motion sickness if you need it and change the intensity value with 100 being the maximum.
 
 ## License
