@@ -35,6 +35,8 @@ Dteyn: https://discord.gg/Qt7GT69Pzx </br>
 VR controllers are mapped EXACTLY as a Xbox controller: buttons labelled with letters are the same, LB = Left grip, LT = Left Trigger. Same for the right side.
 VR motion gestures can trigger left and right attacks with weapons like baseball bat, metal pipe, etc. Throw your arm towards your enemy and it will trigger the attack: left arm toward your left side, right arm toward your right side
 
+Recenter VR: hold the X button for 1.5 seconds
+
 ## Config
 
 ```
